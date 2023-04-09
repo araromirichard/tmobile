@@ -1,0 +1,7 @@
+{
+  "name": "tmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

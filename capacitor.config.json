@@ -1,0 +1,6 @@
+{
+  "appId": "com.tmobile",
+  "appName": "tmobile",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
